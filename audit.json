@@ -1,0 +1,26 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 10
+    },
+    "auditFilename": "audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1687230067989,
+            "name": "D:\\narje\\CHAMPStart Part 2\\nodejs-starter\\logs\\access.2023-06-20.log",
+            "hash": "0ca872841d5f8722647874105578d9d5"
+        },
+        {
+            "date": 1687250037107,
+            "name": "D:\\narje\\CHAMPStart Part 2\\NodeJS lab\\nodejs-starter\\logs\\access.2023-06-20.log",
+            "hash": "4bfd63ef95eb07b3f99f77b6376d2b60"
+        },
+        {
+            "date": 1687310308113,
+            "name": "D:\\narje\\CHAMPStart Part 2\\NodeJS lab\\nodejs-starter\\logs\\access.2023-06-21.log",
+            "hash": "ed749ebd040a91c97bf332b92a2dfabe"
+        }
+    ]
+}
