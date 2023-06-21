@@ -1,3 +1,3 @@
-# NodeJS Starter Project
+# NodeJS Lab Exercise
 
 ## LAMP/WAMP MEAN/MERN
